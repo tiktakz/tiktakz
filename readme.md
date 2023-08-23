@@ -1,1 +1,1 @@
-[[![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hyperflow)](http://mazassumnida.wtf/api/v1/generate_badge?boj={username})http://mazassumnida.wtf/api/v1/generate_badge?boj={username}](http://mazassumnida.wtf/api/v1/generate_badge?boj={username})http://mazassumnida.wtf/api/v1/generate_badge?boj={tiktakz112}
+http://mazassumnida.wtf/api/v1/generate_badge?boj={tiktakz112}
